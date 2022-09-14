@@ -13,10 +13,11 @@ public class Main {
         System.out.println("Lütfen doların bugünün değerini girin");
         double dolarBugun= alinandeger.nextDouble();
 
-
+        System.out.println("deneme");
 
         System.out.println(ortaMetin);
         //integer kullanımları
+
         int vade = 12;
        // double dolarDun=17.64;
        // double dolarBugun=17.60;
